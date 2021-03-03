@@ -1,4 +1,4 @@
-## Install MySQL community server - 
+### Install MySQL community server —
 
 ### Step 1 — Installing MySQL
 
@@ -52,7 +52,7 @@ Threads: 2  Questions: 13  Slow queries: 0  Opens: 131  Flush tables: 3  Open ta
 [root@192 ~]# mysql -u root -p
 
 
-## MySQL Admin - 
+### MySQL Admin —
 
 ### Set MySQL Root password
 
@@ -160,7 +160,7 @@ Uptime: 4409  Threads: 2  Questions: 62  Slow queries: 0  Opens: 217  Flush tabl
 ```
 
 
-## Grant Different User Permissions - 
+### Grant Different User Permissions —
 
 ### List of user 
 
