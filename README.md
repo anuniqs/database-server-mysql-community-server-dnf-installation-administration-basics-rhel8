@@ -99,7 +99,7 @@ mysql> show databases;
 [root@192 ~]# mysqladmin -u root -p drop database_name
 
 
-### reload/refresh MySQL Privileges
+### Reload/Refresh MySQL Privileges
 
 [root@192 ~]# mysqladmin -u root -p reload;
 
