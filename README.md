@@ -80,7 +80,7 @@ mysqld is alive
 [root@192 ~]# mysqladmin -u root -p extended-status
 
 
-### check all the running Process of MySQL server
+### Check all the running Process of MySQL server
 
 [root@192 ~]# mysqladmin -u root -p processlist
 
