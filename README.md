@@ -9,6 +9,7 @@
 [root@192 ~]# rpm -qi mysql
 
 [root@192 ~]# sudo systemctl start mysqld.service
+
 [root@192 ~]# sudo systemctl status mysqld.service
 
 [root@192 ~]# sudo systemctl enable mysqld.service
